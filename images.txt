@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 rustdesk/rustdesk-server:latest
+xiaoyaliu/alist:latest
+xhofe/alist:latest
