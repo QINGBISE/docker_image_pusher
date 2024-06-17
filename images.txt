@@ -6,4 +6,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 rustdesk/rustdesk-server:latest
 xiaoyaliu/alist:latest
-xhofe/alist:latest
