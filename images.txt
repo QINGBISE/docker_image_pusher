@@ -7,3 +7,4 @@ xhofe/alist:latest
 rustdesk/rustdesk-server:latest
 xiaoyaliu/alist:latest
 nyanmisaka/jellyfin:latest
+gdy666/lucky:latest
