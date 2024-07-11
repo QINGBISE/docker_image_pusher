@@ -9,4 +9,4 @@ xiaoyaliu/alist:latest
 nyanmisaka/jellyfin:latest
 gdy666/lucky:latest
 ypptec/nascab:latest
-jellyfin/jellyfin
+jellyfin/jellyfin:unstable
