@@ -9,4 +9,5 @@ xiaoyaliu/alist:latest
 
 gdy666/lucky:latest
 ypptec/nascab:latest
-jellyfin/jellyfin:unstable
+
+jellyfin/jellyfin:2024070805
