@@ -11,3 +11,4 @@ gdy666/lucky:latest
 ypptec/nascab:latest
 
 jellyfin/jellyfin:2024070805
+paulgoio/searxng:production
