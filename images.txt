@@ -11,3 +11,4 @@ ypptec/nascab:latest
 jellyfin/jellyfin:2024070805
 paulgoio/searxng:production
 paulgoio/searxng
+ghcr.io/xmdhs/clash2sfa:latest
